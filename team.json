@@ -1,0 +1,8 @@
+{
+  "team": "UNETI18",
+  "members": [
+    {"name": "Nguyễn Văn A (Trưởng nhóm)", "role": "EDA, tiền xử lý dữ liệu, viết báo cáo, kiểm tra file nộp"},
+    {"name": "Trần Thị B", "role": "Tạo đặc trưng, target encoding, huấn luyện và so sánh mô hình"},
+    {"name": "Lê Văn C", "role": "Phát triển ứng dụng Streamlit, quay video demo, đóng gói mã nguồn"}
+  ]
+}
